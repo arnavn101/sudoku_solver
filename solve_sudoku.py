@@ -58,4 +58,4 @@ class SolveSudoku:
                 print(f"{self.sudoku_board[row][cols]}", end=" ")
             print("\n")
 
-SolveSudoku()
+#SolveSudoku()
